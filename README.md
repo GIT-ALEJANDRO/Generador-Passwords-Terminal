@@ -5,7 +5,8 @@
     - Genera las contraseñas de forma aleatoria y robustas.
     - Es una aplicación de terminal sin argumentos.
     - Idioma: Español
-
+    
+![Alt text](captura.png?raw=true "Evidencia")
 
 ## Licencia
 
