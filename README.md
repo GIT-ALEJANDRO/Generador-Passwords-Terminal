@@ -1,17 +1,22 @@
-## Características
+# Generador de contraseñas por terminal (Windows, MAC y Linux)
 
-    - Desarrollado en C++ 
-    - Soporte Multiplataforma ❤️ Linux, MacOS y Windows.
-    - Genera las contraseñas de forma aleatoria y robustas.
-    - Es una aplicación de terminal sin argumentos.
-    - Idioma: Español
-    
-![Alt text](captura.png?raw=true "Evidencia")
+![Alt text](Captura.png?raw=true "Captura imagen del programa")
+
+## Características
+    - Desarrollado en C++ ☺️
+    - Soporte multiplataforma ❤️ 
+    - Aplicación de terminal  🎮
+    - 1 argumento para seleccionar el rango de la contraseña 🤪
+    - Idioma: Español 🇪🇸
+
+## Compilación 
+```
+g++ -o generador main.cpp
+```
 
 ## Licencia
 
-Copyright (C) 2022  
-Autor: Alejandro García
+GNU General Public License v3.0
 
 ```
 This program is free software: you can redistribute it and/or modify
@@ -27,3 +32,5 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+
+---
