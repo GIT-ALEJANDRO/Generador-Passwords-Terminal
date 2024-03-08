@@ -7,6 +7,7 @@
     - Soporte multiplataforma ❤️ 
     - Aplicación de terminal  🎮
     - 1 argumento para seleccionar el rango de la contraseña 🤪
+    - Copiado automático al portapapeles ✅
     - Idioma: Español 🇪🇸
 
 ## Compilación 
