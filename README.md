@@ -1,6 +1,6 @@
 # Generador de contraseñas por terminal (Windows, MAC y Linux)
 
-![Alt text](Captura.png?raw=true "Captura imagen del programa")
+![Alt text](Captura.png "Captura imagen del programa")
 
 ## Características
     - Desarrollado en C++ ☺️
